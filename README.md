@@ -34,6 +34,8 @@ npm start
 
 You start by describing the problem, the input format and the expected output format. Then click the "train" button. You can improve the solution by clicking the "improve" button.
 
+After a code appears in the "Result" section the you can go to the "Execute" part to execute the code with different inputs.
+
 ## License
 
 MIT
