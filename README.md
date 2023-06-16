@@ -17,6 +17,11 @@ AI Server
 cd server
 npm install
 ```
+Add your OpenAI API Key here:
+/server/index.js line 16
+```
+const openAIToken = '<your API key>';
+```
 
 ## Usage
 
