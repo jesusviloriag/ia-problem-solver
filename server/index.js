@@ -13,7 +13,7 @@ app.on('uncaughtException', function(err) {
 
 const sDUrl = 'http://127.0.0.1:7860/sdapi/v1/txt2img';
 
-const openAIToken = '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';
+const openAIToken = '<your API key>';
 
 const api = new ChatGPTAPI({
   apiKey: openAIToken
