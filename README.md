@@ -2,7 +2,7 @@
 An AI that uses ChatGPT to solve problems by creating Javascript codes and then executing them
 
 Crawl webpages
-![alt text](https://i.imgur.com/3ABpEvZ.jpg)
+![alt text](https://i.imgur.com/giUiQZI.png)
 Mathematical operations
 ![alt text](https://i.imgur.com/8yyfFTz.png)
 
